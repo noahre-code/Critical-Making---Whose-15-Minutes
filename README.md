@@ -1,6 +1,6 @@
 # Whose 15 Minutes? On-screen instructions
 
-Arduino code for the game screen of *Whose 15 Minutes?*, a board game about care work, mobility of care, and the 15-minute city. The game was built by Team 1 (Gendered Mobility) in the seminar "Critical Making: Uncovering Biases, Rapid Prototyping, and Designing for Engagement" (ED130100) at the Technical University of Munich, winter semester 2026/27.
+Arduino code for the game screen of *Whose 15 Minutes?*, a board game about care work, mobility of care, and the 15-minute city. The game was built by Team 1 (Gendered Mobility) in the seminar "Critical Making: Uncovering Biases, Rapid Prototyping, and Designing for Engagement" (ED130100) at the Technical University of Munich, winter semester 2026/27 (lecturers: Dr. Reginas Sipons, Dr. Clemens Striebig).
 
 The sketch runs on an Arduino UNO and drives a VGA monitor directly, without a computer. It shows 34 black-and-white instruction screens at 160 x 64 pixels, counts down two rounds of five minutes, and lets players move through the screens with two buttons.
 
