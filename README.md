@@ -107,4 +107,4 @@ A press counts when the button is released, so pressing both buttons is not read
 
 ## Team
 
-Arsham Hooshangi, Julius Grüne, Maximilian Michels, Noah Reitinger
+Arsham Hooshangi, Julius Grüne, Maximilian Michels, Noah Reitinger (Technical University of Munich, TUM)
